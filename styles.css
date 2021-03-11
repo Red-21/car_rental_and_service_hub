@@ -848,7 +848,7 @@ button[type=submit]:hover{
     margin-top: 250px;
   }
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:420px){
   #banner-smol{
     font-size: 15px;
   }
