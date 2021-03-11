@@ -849,6 +849,9 @@ button[type=submit]:hover{
   }
 }
 @media screen and (max-width:420px){
+  .intro-content-bg-clr{
+    max-width: 60vw;
+  }
   #banner-smol{
     font-size: 15px;
   }
