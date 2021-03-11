@@ -867,11 +867,17 @@ button[type=submit]:hover{
   .selection{
     padding-top: 100px;
   }
+  .between-section-ending{
+  padding-bottom: 100px;
+  }
   .ending-background-pic{
     background-size: contain;
     height: 20vh;
   }
   .ending-quote h2{
     padding: 0;
+  }
+  footer{
+    margin-top: 330px;
   }
 }
